@@ -17,7 +17,7 @@ read 12 8
 3) write_value B C
 Как это работает : memory[B] = registers[C]
 ```
-
+write_value 10 6
 
 ```
 4) rshift B C
